@@ -2,6 +2,7 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Imdad Adelabou",
     "description": "A node server to learn api with nodeJs.",
+    "keywords": ["nodejs", "beginner", "api"],
     "dependencies": {
         "express": "^4.14.0",
         "nodemon": "^2.0.15"
